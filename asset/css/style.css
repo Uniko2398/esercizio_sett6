@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+.navbar-brand img{
+    width: 100px;
+} 
+.nav-item a{
+    color: white;
+}
+.dropdown-menu{
+    background-color: black;
+}
